@@ -14,8 +14,8 @@ Make sure you have Node.js installed on your machine. It's recommended to use ve
 
 1.  **Clone the repository** (if you are running this outside of an integrated environment):
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/iPriyadarshi/LeetCode-Tracker.git
+    cd LeetCode-Tracker
     ```
 
 2.  **Install dependencies**:
